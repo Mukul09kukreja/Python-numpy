@@ -19,4 +19,4 @@ print(array[:, 0:3])
 
 print(array[:, 1::2])
 
-print(array[0:2, 0:2]) # it is like array[rows, column]
+print(array[0:2, 0:2]) # it is like array[row, column]
